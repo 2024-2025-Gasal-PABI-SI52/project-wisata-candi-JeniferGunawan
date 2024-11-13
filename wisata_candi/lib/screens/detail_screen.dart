@@ -138,7 +138,9 @@ class DetailScreen extends StatelessWidget{
                     )
                   ],
                 ),
-              )
+              ),
+              //DETAIL GALERI
+              
             ],
           ),
         ),
