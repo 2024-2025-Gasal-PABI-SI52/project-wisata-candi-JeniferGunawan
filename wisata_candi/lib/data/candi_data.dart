@@ -10,10 +10,10 @@ var candiList = [
     type : 'Candi Buddha',
     imageAsset: 'images/borobudur.jpg',
     imageUrls: [
-      'https://dhammadiparama.com/wp-content/uploads/2022/07/Candi-Borobudur-scaled.jpg',
+      'https://akcdn.detik.net.id/visual/2022/06/05/ilustrasi-candi-borobudur_169.jpeg?w=720&q=90',
       'https://pict.sindonews.net/dyn/850/pena/news/2024/05/03/29/1370163/jejak-rekam-keajaiban-candi-borobudur-dari-sang-maestro-raja-sriwijaya-samaratungga-vgx.jpg',
       'https://upload.wikimedia.org/wikipedia/commons/7/77/Stupa_Borobudur.jpg',
-      'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liputan6.com%2Fhot%2Fread%2F4157213%2Fwisata-candi-borobudur-dan-destinasi-menarik-di-sekitarnya&psig=AOvVaw3Tsjbe0gX5Fli_MSLuE0xc&ust=1731254829780000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCO8_rQz4kDFQAAAAAdAAAAABAp',
+      'https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/05/23/Ilustrasi-Pesona-Wisata-Candi-Borobudur-Salah-Satu-Keajaiban-Dunia-3668445357.jpg',
     ],
     isFavorite : false,
   ),
