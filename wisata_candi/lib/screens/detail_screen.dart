@@ -140,7 +140,38 @@ class DetailScreen extends StatelessWidget{
                 ),
               ),
               //DETAIL GALERI
-              
+              Padding (
+                padding: const EdgeInsets.all(15),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start ,
+                  children: [
+                    const SizedBox(
+                      height: 8,
+                    ),
+                    Divider(color: Colors.deepPurple.shade100,),
+                    const SizedBox(
+                      height: 16,
+                    ),
+                   const Text('Galeri',
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                    ),
+                    const SizedBox(
+                      height: 10,
+                      ),
+                    SizedBox(
+                      height: 100,
+                      
+                    ),
+                    const SizedBox(height: 4,),
+                    Text('Tap Untuk Memperbesar', 
+                    style: TextStyle(fontSize: 12, color:Colors.black54),
+                    ),
+                  ],
+                ),
+                )
             ],
           ),
         ),
